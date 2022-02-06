@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinícius Prudente Teixeira</h1>
 <h3 align="center">A data scientist from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciuspteixeira&label=Profile%20views&color=0e75b6&style=flat" alt="viniciuspteixeira" /> </p>
 
 - 🔭 I’m currently working on **Águia Branca Group**
 
@@ -14,6 +13,9 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/vinicius-prudente-teixeira/](https://www.linkedin.com/in/vinicius-prudente-teixeira/)
 
 <h3 align="left">Connect with me:</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciuspteixeira&label=Profile%20views&color=0e75b6&style=flat" alt="viniciuspteixeira" /> </p>
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vinicius-prudente-teixeira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-prudente-teixeira/" height="30" width="40" /></a>
 </p>
