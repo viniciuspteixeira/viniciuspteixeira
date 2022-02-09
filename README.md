@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vinícius Prudente Teixeira</h1>
-<h3 align="center">A Data Scientist from Brazil</h3>
-
 <p align="center">
-  <img src="https://github.com/kterra/kterra/raw/main/assets/header-github.gif" alt="Oi, eu sou a Kizzy">
+  <img src="https://github.com/viniciuspteixeira/viniciuspteixeira/raw/main/assets/github-header.gif" alt="Oi">
 </p>
 
 <!--
